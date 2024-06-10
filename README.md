@@ -22,7 +22,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey.filimonovalexey&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=bebroid2267.bebroid2267&"  />
 </div>
 
 ###
@@ -55,9 +55,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mssql" height="40" alt="postgresql logo"  />
+  
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dotnet logo"  />
 </div>
 
 ###
