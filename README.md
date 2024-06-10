@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <a href="[https://www.youtube.com/@tehno.maniak](https://vk.com/an.heal)" target="_blank">
+  <a href="https://vk.com/an.heal" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Vk&logo=vk&label=&color=blue&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="vk logo"  />
   </a>
   <a href="https://t.me/kirkross" target="_blank">
